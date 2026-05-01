@@ -1,5 +1,8 @@
-## Entrevista Técnica - Grupo Boticário
-Bem-vindo ao desafio de engenharia do Grupo Boticário. Prepare-se para duas etapas fundamentais:
+# Sandbox de Treinamento: Entrevista Técnica - Grupo Boticário
+
+> **Aviso:** Este repositório é um sandbox pessoal criado com o propósito exclusivo de treinar e me preparar para as etapas da entrevista técnica (System Design e Pair Programming) do Grupo Boticário.
+
+Bem-vindo aos cenários práticos de engenharia focados no Gateway de Pagamentos. Prepare-se para duas etapas fundamentais:
 
 ### 1. Pair Programming: Split de Pagamentos (Marketplace)
 - **Arquivo de Referência:** `pair-programming.md`
