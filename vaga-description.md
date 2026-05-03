@@ -24,6 +24,7 @@ Interesse e conhecimento em estruturas de dados;
 Experiência com microsserviços;
 Experiência com monitoração e logging;
 Experiência com tarefas agendadas;
+Experiência com new relic, sentry ou similar;
 Conhecimento de Rest e orientação a eventos;
 Experiência com testes unitários, de integração;
 Ponto de vista crítico quanto a performance e segurança;
